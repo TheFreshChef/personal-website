@@ -6,7 +6,7 @@ export const profile = {
   role: "AI Engineer & Full-Stack Developer",
   tagline:
     "CS senior at UC Santa Barbara building RAG pipelines, ML systems, and games people actually play.",
-  email: "lifehaxdecks@gmail.com",
+  email: "edric2375@gmail.com",
   github: "https://github.com/TheFreshChef",
   linkedin: "https://www.linkedin.com/in/edric-irimpan-491254293",
   location: "Santa Barbara, CA",
@@ -105,7 +105,7 @@ export const projects: Project[] = [
   },
   {
     name: "Acuity.ai",
-    role: "Lead ML Engineer",
+    role: "ML Engineer",
     period: "Feb 2026 — Jun 2026",
     blurb:
       "A RAG-backed clinical chatbot that assesses patient readmission risk with an XGBoost classifier tuned for recall — flagging high-risk patients before they bounce back.",
@@ -135,7 +135,7 @@ export const projects: Project[] = [
   },
   {
     name: "Canvas Clash",
-    role: "Lead Engineer",
+    role: "Software Lead",
     period: "Jan 2025 — Jun 2025",
     blurb:
       "A multiplayer drawing game with live AI-powered sketch recognition — draw fast, get scored instantly, beat the room.",
